@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**junk1tm/junk1tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm Tom, a **Go developer** since 2018
 
-Here are some ideas to get you started:
+[![email](https://img.shields.io/badge/✉️-Email-lightgrey)](mailto:tom@junk1tm.me)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/junk1tm)
+[![leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/junk1tm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😎 I’m currently available for hire
+- 📖 I’m currently learning Python and algorithms
+- 🤝 I’m looking to collaborate on projects written in Go
+- ❤️ I love crafting simple open source libraries and tools
+- 💬 In my spare time I enjoy hiking ⛺ and brewing filter coffee ☕
