@@ -2,7 +2,7 @@
 
 > I'm Tom, a **Go developer** since 2018
 
-[![email](https://img.shields.io/badge/✉️-Email-lightgrey)](mailto:tom@junk1tm.me)
+[![email](https://img.shields.io/badge/✉️-Email-lightgrey)](mailto:hello@junk1tm.me)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/junk1tm)
 [![leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/junk1tm)
 
